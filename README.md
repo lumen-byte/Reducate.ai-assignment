@@ -75,7 +75,7 @@ This project is an overall redesign of the official Jagannath University website
 
 ---
 
-## Project Requirements
+## Project Features
 
 - [x] Redesign inspired by `jguni.in`
 - [x] Built with Next.js and Tailwind CSS
@@ -88,12 +88,4 @@ This project is an overall redesign of the official Jagannath University website
 
 ---
 
-## Submission Details
-
-- **Candidate:** [Your Name]
-- **Phone:** [Your Phone Number]
-- **Submission Email:** vikas@codingjr.online
-
----
-
-Developed for the Reducate.ai Frontend Assignment.
+Developed for the Reducate.ai Assignment.
