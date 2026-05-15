@@ -1,45 +1,43 @@
-# Jagannath University — Landing Page
+# Jagannath University - Landing Page
 
-A modern, fully responsive landing page for Jagannath University, redesigned from the ground up with a focus on performance, accessibility, and clean UI/UX principles.
-
----
-
-## Overview
-
-This project is a complete redesign of the official Jagannath University website, built as part of the Reducate.ai frontend assignment. The goal was to take the existing `jguni.in` interface and reimagine it with a contemporary design system — incorporating glassmorphism, smooth animations, and a structured academic layout — while maintaining fast load times and cross-device compatibility.
+Modern and fully responsive landing page for Jagannath University redesigned for speed, accessibility, and great UI/UX.
 
 ---
 
-## Tech Stack
+## Description
 
-| Layer       | Technology                              |
-|-------------|------------------------------------------|
-| Framework   | Next.js 15 (App Router)                 |
-| Styling     | Tailwind CSS 4                           |
-| Animations  | Framer Motion                            |
-| Icons       | Lucide React                             |
-| Typography  | Hanken Grotesk & Source Serif 4 (Google Fonts) |
+This project is an overall redesign of the official Jagannath University website, created as part of the frontend assignment by Reducate.ai. The task was to redesign the `jguni.in` website with a modern design, such as glassmorphism and animations, and at the same time make sure that the website will load quickly and be available on any device.
 
 ---
+
+## Technologies Used
+
+| Layer      | Technology                              |
+|------------|------------------------------------------|
+| Framework  | Next.js 15 (App Router)                 |
+| Styling    | Tailwind CSS 4                          |
+| Animation  | Framer Motion                           |
+| Icons      | Lucide React                            |
+| Typography | Hanken Grotesk & Source Serif 4 (Google Fonts)|
 
 ## Features
 
-- **Next.js 15 App Router** — modern routing architecture with improved SEO and server-side rendering support
-- **Responsive Layout** — optimized for mobile, tablet, and desktop viewports without layout shifts
-- **Framer Motion Animations** — entrance animations and interactive transitions for a polished feel
-- **Glassmorphism Design** — layered depth and vibrant color palettes inspired by modern UI trends
-- **Academic Sections** — dedicated areas for programs, university history, features, and CTAs
-- **Optimized Performance** — efficient font loading, lazy images, and minimal render-blocking resources
+- **Next.js 15 App Router** – contemporary routing system with better SEO and server-side rendering
+- **Responsive Design** – designed for optimal viewing on mobile, tablet, and desktop browsers without any page layout changes
+- **Animations with Framer Motion** – entrance and interactive transitions to add polish
+- **Glassmorphism Design Theme** – rich in layers and vibrant color schemes based on modern design concepts
+- **Academic Areas** – separate sections for Programs, University History, Features, and Calls to Action (CTAs)
+- **Performance Optimization** – optimized fonts, lazy-loaded images, and other optimizations
 
 ---
 
 ## Screenshots
 
 ### Desktop View
-![Desktop Screenshot](https://raw.githubusercontent.com/lumen-byte/Reducate.ai-assignment/main/screenshots/desktop.png)
+![Desktop Screenshot]([https://raw.githubusercontent.com/lumen-byte/Reducate.ai-assignment/main/screenshots/desktop.png](https://github.com/lumen-byte/Reducate.ai-assignment/blob/main/screenshots/Screenshot%202026-05-15%20at%204.25.32%E2%80%AFPM.png))
 
 ### Mobile View
-![Mobile Screenshot](https://raw.githubusercontent.com/lumen-byte/Reducate.ai-assignment/main/screenshots/mobile.png)
+![Mobile Screenshot]([https://raw.githubusercontent.com/lumen-byte/Reducate.ai-assignment/main/screenshots/mobile.png](https://github.com/lumen-byte/Reducate.ai-assignment/blob/main/screenshots/Screenshot%202026-05-15%20at%204.26.31%E2%80%AFPM.png))
 
 ---
 
