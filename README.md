@@ -34,12 +34,12 @@ This project is an overall redesign of the official Jagannath University website
 ## Screenshots
 
 ### Desktop View
-![Desktop Screenshot](<img width="2940" height="1668" alt="image" src="https://github.com/user-attachments/assets/8216f42f-460c-43a6-9e8c-ce22ceed40a8" />
 <img width="2940" height="1668" alt="image" src="https://github.com/user-attachments/assets/a41acdda-d25e-4e42-b340-14cb8ccec004" />
-)
+
 
 ### Mobile View
-![Mobile Screenshot]([https://raw.githubusercontent.com/lumen-byte/Reducate.ai-assignment/main/screenshots/mobile.png](https://github.com/lumen-byte/Reducate.ai-assignment/blob/main/screenshots/Screenshot%202026-05-15%20at%204.26.31%E2%80%AFPM.png))
+<img width="996" height="1588" alt="image" src="https://github.com/user-attachments/assets/253ba3ae-d1eb-4189-b686-f7cce9e2c962" />
+
 
 ---
 
