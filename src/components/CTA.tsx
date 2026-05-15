@@ -23,7 +23,7 @@ export const CTA = () => {
               Book a Tour
             </motion.button>
           </div>
-          
+
           <div className="w-full md:w-1/2 h-[350px] rounded-2xl overflow-hidden shadow-2xl relative z-10 group">
             <img 
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000" 
@@ -32,8 +32,8 @@ export const CTA = () => {
               referrerPolicy="no-referrer"
             />
           </div>
-          
-          {/* Decorative Pattern */}
+
+          {}
           <div className="absolute top-0 right-0 w-1/2 h-full bg-primary/5 -skew-x-12 translate-x-1/4 pointer-events-none"></div>
         </motion.div>
       </div>

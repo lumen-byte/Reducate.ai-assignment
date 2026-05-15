@@ -23,7 +23,7 @@ export const Header = () => {
             Jagannath University
           </h1>
         </div>
-        
+
         <div className="hidden md:flex items-center gap-gutter">
           <nav className="flex gap-8">
             <a href="#" className="text-primary font-bold border-b-2 border-primary pb-1">About</a>
@@ -41,7 +41,7 @@ export const Header = () => {
         </button>
       </div>
 
-      {/* Mobile Menu */}
+      {}
       {isMenuOpen && (
         <motion.div 
           initial={{ opacity: 0, y: -20 }}

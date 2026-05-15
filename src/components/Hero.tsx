@@ -15,7 +15,7 @@ export const Hero = () => {
         />
         <div className="absolute inset-0 bg-gradient-to-r from-primary/90 via-primary/50 to-transparent"></div>
       </div>
-      
+
       <div className="relative z-10 px-margin-mobile md:px-gutter max-w-container-max mx-auto w-full">
         <motion.div 
           initial={{ opacity: 0, x: -50 }}

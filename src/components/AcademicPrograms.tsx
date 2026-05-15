@@ -9,9 +9,9 @@ export const AcademicPrograms = () => {
           <h2 className="font-serif text-4xl md:text-5xl text-on-surface font-bold">Academic Programs</h2>
           <p className="text-on-surface-variant mt-4 text-lg">Discover your passion across our diverse faculties</p>
         </div>
-        
+
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 h-auto md:h-[650px]">
-          {/* Engineering */}
+          {}
           <motion.div 
             whileHover={{ y: -5 }}
             className="md:col-span-2 md:row-span-2 group relative overflow-hidden rounded-xl border border-border-light bg-canvas-white shadow-sm"
@@ -31,7 +31,7 @@ export const AcademicPrograms = () => {
             </div>
           </motion.div>
 
-          {/* Management */}
+          {}
           <motion.div 
             whileHover={{ y: -5 }}
             className="md:col-span-2 group relative overflow-hidden rounded-xl border border-border-light bg-canvas-white shadow-sm"
@@ -50,7 +50,7 @@ export const AcademicPrograms = () => {
             </div>
           </motion.div>
 
-          {/* Law */}
+          {}
           <motion.div 
             whileHover={{ y: -5 }}
             className="group relative overflow-hidden rounded-xl border border-border-light bg-canvas-white shadow-sm p-8 flex flex-col border-t-8 border-primary"
@@ -65,7 +65,7 @@ export const AcademicPrograms = () => {
             </span>
           </motion.div>
 
-          {/* Arts */}
+          {}
           <motion.div 
             whileHover={{ y: -5 }}
             className="group relative overflow-hidden rounded-xl border border-border-light bg-canvas-white shadow-sm p-8 flex flex-col border-t-8 border-secondary"

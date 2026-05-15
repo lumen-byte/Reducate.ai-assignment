@@ -27,7 +27,7 @@ export const About = () => {
               </div>
             </div>
           </motion.div>
-          
+
           <motion.div 
             initial={{ opacity: 0, scale: 0.95 }}
             whileInView={{ opacity: 1, scale: 1 }}
