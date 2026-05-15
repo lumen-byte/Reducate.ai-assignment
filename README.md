@@ -1,27 +1,49 @@
-# 🏛️ Jagannath University Landing Page
+# Jagannath University — Landing Page
 
-A premium, modern, and highly responsive landing page for **Jagannath University**, redesigned for excellence. Built with **Next.js 15**, **Tailwind CSS 4**, and **Framer Motion**.
+A modern, fully responsive landing page for Jagannath University, redesigned from the ground up with a focus on performance, accessibility, and clean UI/UX principles.
 
-![Hero Section](https://images.unsplash.com/photo-1541339907198-e08756ebafe3?auto=format&fit=crop&q=80&w=1200)
+---
 
-## ✨ Features
+## Overview
 
-- **🚀 Modern Architecture**: Built with Next.js 15 (App Router) for superior performance and SEO.
-- **🎨 Premium Design**: Inspired by `jguni.in` but enhanced with modern UI/UX principles, vibrant color palettes, and glassmorphism effects.
-- **📱 Fully Responsive**: Seamless experience across mobile, tablet, and desktop devices.
-- **🎭 Smooth Animations**: Interactive elements and entrance animations powered by Framer Motion.
-- **📘 Academic Showcase**: Dedicated sections for programs, features, and university history.
-- **⚡ Performance Optimized**: Optimized fonts and image handling for fast load times.
+This project is a complete redesign of the official Jagannath University website, built as part of the Reducate.ai frontend assignment. The goal was to take the existing `jguni.in` interface and reimagine it with a contemporary design system — incorporating glassmorphism, smooth animations, and a structured academic layout — while maintaining fast load times and cross-device compatibility.
 
-## 🛠️ Tech Stack
+---
 
-- **Framework**: [Next.js 15](https://nextjs.org/)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Typography**: Hanken Grotesk & Source Serif 4 (Google Fonts)
+## Tech Stack
 
-## 🚀 Getting Started
+| Layer       | Technology                              |
+|-------------|------------------------------------------|
+| Framework   | Next.js 15 (App Router)                 |
+| Styling     | Tailwind CSS 4                           |
+| Animations  | Framer Motion                            |
+| Icons       | Lucide React                             |
+| Typography  | Hanken Grotesk & Source Serif 4 (Google Fonts) |
+
+---
+
+## Features
+
+- **Next.js 15 App Router** — modern routing architecture with improved SEO and server-side rendering support
+- **Responsive Layout** — optimized for mobile, tablet, and desktop viewports without layout shifts
+- **Framer Motion Animations** — entrance animations and interactive transitions for a polished feel
+- **Glassmorphism Design** — layered depth and vibrant color palettes inspired by modern UI trends
+- **Academic Sections** — dedicated areas for programs, university history, features, and CTAs
+- **Optimized Performance** — efficient font loading, lazy images, and minimal render-blocking resources
+
+---
+
+## Screenshots
+
+### Desktop View
+![Desktop Screenshot](https://raw.githubusercontent.com/lumen-byte/Reducate.ai-assignment/main/screenshots/desktop.png)
+
+### Mobile View
+![Mobile Screenshot](https://raw.githubusercontent.com/lumen-byte/Reducate.ai-assignment/main/screenshots/mobile.png)
+
+---
+
+## Getting Started
 
 ### Prerequisites
 
@@ -30,50 +52,48 @@ A premium, modern, and highly responsive landing page for **Jagannath University
 
 ### Installation
 
-1. **Clone the repository:**
+1. Clone the repository:
+
    ```bash
    git clone https://github.com/lumen-byte/Reducate.ai-assignment.git
    cd Reducate.ai-assignment
    ```
 
-2. **Install dependencies:**
+2. Install dependencies:
+
    ```bash
    npm install
    ```
 
-3. **Run the development server:**
+3. Start the development server:
+
    ```bash
    npm run dev
    ```
 
-4. **Open your browser:**
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the result.
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](https://raw.githubusercontent.com/lumen-byte/Reducate.ai-assignment/main/screenshots/desktop.png)
-
-### Mobile View
-![Mobile Screenshot](https://raw.githubusercontent.com/lumen-byte/Reducate.ai-assignment/main/screenshots/mobile.png)
-
-## 📄 Requirements Met
-
-- [x] Redesign inspired by `jguni.in`
-- [x] Built with Next.js & Tailwind CSS
-- [x] Responsive Hero Section
-- [x] Navbar with Navigation
-- [x] About & Features Sections
-- [x] Academic Programs Grid
-- [x] Testimonials & CTA
-- [x] Footer with links
-
-## 📧 Submission Info
-
-- **Candidate**: [Your Name]
-- **Contact**: [Your Phone Number]
-- **Email**: vikas@codingjr.online (Recipient)
+4. Open your browser and navigate to `http://localhost:3000`.
 
 ---
 
-Developed with ❤️ for the Reducate.ai Assignment.
+## Project Requirements
+
+- [x] Redesign inspired by `jguni.in`
+- [x] Built with Next.js and Tailwind CSS
+- [x] Responsive Hero Section
+- [x] Navbar with Navigation Links
+- [x] About and Features Sections
+- [x] Academic Programs Grid
+- [x] Testimonials and Call-to-Action
+- [x] Footer with Links
+
+---
+
+## Submission Details
+
+- **Candidate:** [Your Name]
+- **Phone:** [Your Phone Number]
+- **Submission Email:** vikas@codingjr.online
+
+---
+
+Developed for the Reducate.ai Frontend Assignment.
